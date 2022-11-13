@@ -8,9 +8,9 @@
 
 label {
   width: max-content;
-  color: tomato;
+  color: #FD841F;
   font-size: 13px;
-  border-bottom: 0.5px solid tomato;
+  border-bottom: 0.5px solid #FD841F;
   margin: 3px 0;
 }
 
@@ -91,14 +91,14 @@ textarea {
 }
 
 .logout{
-  background-color: tomato;
+  background-color: #CF0A0A
 }
 
 .login{
-  background-color: teal;
+  background-color: #1CD6CE;
   margin-right: 10px;
 }
 
 .register{
-  background-color: slateblue;
+  background-color: #3120E0;
 }
