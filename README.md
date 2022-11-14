@@ -2,8 +2,7 @@
 
 
 ## Description
-In this application, you can login or register
-You can pin places you have traveled in any location and 
+In this application, you can make an account to login and pin places you have traveled in any location and 
 share your reviews with other users.
 
 ## Technologies Used
@@ -37,6 +36,11 @@ https://docs.mapbox.com/api/accounts/tokens/
 
 
 ## Future Improvements
+Add a location search bar
+Add a 3d map building etc.. when zoom in
+Add where you can put photos inside of your reviews
+Make the app faster
+
 
 
 ## Markdown Images
