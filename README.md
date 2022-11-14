@@ -36,10 +36,10 @@ https://docs.mapbox.com/api/accounts/tokens/
 
 
 ## Future Improvements
-Add a location search bar
-Add a 3d map building etc.. when zoom in
-Add where you can put photos inside of your reviews
-Make the app faster
+- Add a location search bar
+- Add a 3d map building etc.. when zoom in
+- Add where you can put photos inside of your reviews
+- Fix my mark up pin to stay in location
 
 
 
