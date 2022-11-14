@@ -8,6 +8,7 @@ In this application, you can pin your location and share your reviews with other
 
 
 ## API
+https://docs.mapbox.com/api/accounts/tokens/
 
 
 
