@@ -2,7 +2,9 @@
 
 
 ## Description
-In this application, you can pin your location and share your reviews with other users.
+In this application, you can login or register
+You can pin places you have traveled in any location and 
+share your reviews with other users.
 
 ## Technologies Used
 
