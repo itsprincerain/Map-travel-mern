@@ -7,12 +7,20 @@ In this application, you can pin your location and share your reviews with other
 ## Technologies Used
 
 backend 
--
+- bcrypt
+- express
+- mongoose
+- nodemon
+- dotenv
 
 
 
 frontend 
--
+- material-ui/core
+- material-ui/icons
+- axios
+- react-map-gl
+- react
 
 
 ## API
