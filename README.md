@@ -6,6 +6,14 @@ In this application, you can pin your location and share your reviews with other
 
 ## Technologies Used
 
+backend 
+-
+
+
+
+frontend 
+-
+
 
 ## API
 https://docs.mapbox.com/api/accounts/tokens/
