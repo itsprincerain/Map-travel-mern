@@ -22,7 +22,7 @@ frontend
 - axios
 - react-map-gl
 - react
-
+- JWT
 
 ## API
 https://docs.mapbox.com/api/accounts/tokens/
@@ -30,6 +30,11 @@ https://docs.mapbox.com/api/accounts/tokens/
 
 
 ## Challenges
+- Creating Mapbox Marker
+- Using Material/ui
+- React fetching data from node.js using axios
+- React post using Axios
+- Setting up user login/logout to local storage
 
 
 
