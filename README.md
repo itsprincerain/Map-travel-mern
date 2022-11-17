@@ -15,7 +15,6 @@ backend and frontend
 - dotenv
 - JWT authentication
 - bcryptjs for data encryption
-- material-ui/core
 - material-ui/icons
 - axios
 - react-map-gl
