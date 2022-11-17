@@ -18,7 +18,6 @@ backend and frontend
 - bcryptjs for data encryption
 - material-ui/icons
 - axios
-- react-map-gl
 - react
 
 
