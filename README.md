@@ -26,7 +26,7 @@ https://docs.mapbox.com/api
 
 
 
-## Challenges
+## Technical Challenges
 - Creating Mapbox Marker
 - Using Material/ui
 - React fetching data from node.js using axios
