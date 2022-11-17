@@ -13,12 +13,14 @@ backend and frontend
 - mongoose
 - nodemon
 - dotenv
+- JWT authentication
+- bcryptjs for data encryption
 - material-ui/core
 - material-ui/icons
 - axios
 - react-map-gl
 - react
-- JWT
+
 
 ## API
 https://docs.mapbox.com/api/accounts/tokens/
