@@ -2,7 +2,7 @@
 
 
 ## Description
-In this application, you can make an account to login and pin places you have traveled in any location and 
+In this application, you can make an account to login/register and pin places you have traveled in any location and 
 share your reviews with other users.
 
 ## Technologies Used
