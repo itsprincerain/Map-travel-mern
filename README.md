@@ -10,7 +10,7 @@ share your reviews with other users.
 backend and frontend
 - javascript
 - express
-- mongoose
+- MongoDb
 - nodemon
 - dotenv
 - JWT authentication
