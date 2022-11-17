@@ -22,7 +22,7 @@ backend and frontend
 
 
 ## API
-https://docs.mapbox.com/api/accounts/tokens/
+https://docs.mapbox.com/api
 
 
 
