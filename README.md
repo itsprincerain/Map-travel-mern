@@ -7,16 +7,12 @@ share your reviews with other users.
 
 ## Technologies Used
 
-backend 
+backend and frontend
 - javascript
 - express
 - mongoose
 - nodemon
 - dotenv
-
-
-
-frontend 
 - material-ui/core
 - material-ui/icons
 - axios
